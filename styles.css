@@ -408,6 +408,9 @@ a {
     width: 28px;
     height: 28px;
     min-width: 28px;
+    max-width: 28px;
+    max-height: 28px;
+    flex-shrink: 0;
     color: var(--color-primary);
     margin-top: 2px;
 }
